@@ -1,0 +1,8 @@
+C- placeholder and format specifier
+Java- Concatenation
+Python- Comma separated, placeholder, Concatenation ONLY for STRING
+JavaScript- Comma separated,placeholder, Concatenation
+
+Comma separated
+a="Sohail"
+("My name is",a)

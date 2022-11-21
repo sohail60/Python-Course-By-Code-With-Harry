@@ -1,0 +1,21 @@
+List methods:
+
+del() : Element to be deleted is mentioned using list name and index.
+Syntax:
+del list.[index]
+
+sum() : Calculates sum of all the elements of List.
+Syntax:
+sum(List)
+
+extend(): Adds contents to List2 to the end of List1.
+Syntax:
+List1.extend(List2)
+
+max(): Calculates maximum of all the elements of List.
+Syntax:
+max(List)
+
+min() : Calculates minimum of all the elements of List.
+Syntax:
+min(List)
